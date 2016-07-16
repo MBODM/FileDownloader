@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBODM.Common.FileDownloader", "MBODM.Common.FileDownloader\MBODM.Common.FileDownloader.csproj", "{67F6BB6C-A743-4527-9AE9-F449ED451174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F6BB6C-A743-4527-9AE9-F449ED451174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F6BB6C-A743-4527-9AE9-F449ED451174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F6BB6C-A743-4527-9AE9-F449ED451174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F6BB6C-A743-4527-9AE9-F449ED451174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
